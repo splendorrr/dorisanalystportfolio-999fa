@@ -98,7 +98,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Join adventure
+        label: Join
         showIcon: true
         icon: arrowRight
         style: primary
