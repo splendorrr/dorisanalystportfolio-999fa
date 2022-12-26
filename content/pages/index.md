@@ -33,6 +33,14 @@ sections:
       - type: Link
         label: Learn more
         altText: ''
+        url: 'https://www.linkedin.com/in/doris-a-55b326249//'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
         url: '/https://www.linkedin.com/in/doris-a-55b326249/'
         showIcon: false
         icon: arrowRight
