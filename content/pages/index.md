@@ -61,7 +61,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Welcome to my portfolio website!
-    subtitle: Fresh. Better. Faster.
+    subtitle: Data analyst. Better. Faster.
     text: ''
     actions:
       - type: Button
