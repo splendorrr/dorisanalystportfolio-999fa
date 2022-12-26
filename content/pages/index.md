@@ -98,7 +98,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Jo
+        label: View My Projects
         showIcon: true
         icon: arrowRight
         style: primary
