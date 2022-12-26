@@ -20,7 +20,10 @@ sections:
     elementId: ''
     backgroundSize: full
     subtitle: Learn. Better. Faster.
-    text: ''
+    text: >+
+      Doris Aleks! Evolving individual and Data Analyst! Inspired by great
+      people & great projects!
+
     actions:
       - type: Button
         label: View My Projects
