@@ -105,7 +105,7 @@ sections:
         url: /
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /images/IMG_6988_Facetune_31-05-2021-19-22-55.jpg
       altText: Hero image
     backgroundImage: null
     styles:
