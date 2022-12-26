@@ -41,7 +41,7 @@ sections:
         label: Learn more
         altText: ''
         url: '/https://www.linkedin.com/in/doris-a-55b326249/'
-        showIcon: true
+        showIcon: false
         icon: linkedin
         iconPosition: right
         elementId: ''
