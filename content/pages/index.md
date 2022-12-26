@@ -19,7 +19,6 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    subtitle: Learn. Better. Faster.
     text: >+
       Doris Aleks! Evolving individual and Data Analyst! Inspired by great
       people & great projects!
