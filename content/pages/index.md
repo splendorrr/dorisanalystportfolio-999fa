@@ -155,7 +155,7 @@ sections:
         icon: arrowRight
     backgroundImage:
       type: BackgroundImage
-      url: /images/Screen Shot 2022-12-26 at 2.37.37 PM.png
+      url: /images/IMG_6988_Facetune_31-05-2021-19-22-55.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
