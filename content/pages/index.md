@@ -61,7 +61,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Welcome to my portfolio website!
-    subtitle: . Better. Faster.
+    subtitle: Evolve. Inspire. Better. Faster.
     text: ''
     actions:
       - type: Button
