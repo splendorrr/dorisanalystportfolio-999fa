@@ -174,7 +174,7 @@ sections:
           - pb-72
           - pr-4
           - pl-4
-        justifyContent: center
+        justifyContent: flex-start
       title:
         textAlign: left
       subtitle:
