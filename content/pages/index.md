@@ -212,7 +212,7 @@ sections:
         url: /
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /images/Screen Shot 2022-12-26 at 2.37.37 PM.png
       altText: Hero image
     backgroundImage: null
     styles:
