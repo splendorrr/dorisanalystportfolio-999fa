@@ -196,45 +196,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: HeroSection
-    colors: colors-d
-    elementId: ''
-    backgroundSize: full
-    title: We do fishing differently
-    subtitle: Fresh. Better. Faster.
-    text: ''
-    actions:
-      - type: Button
-        label: Join adventure
-        showIcon: true
-        icon: arrowRight
-        style: primary
-        url: /
-    media:
-      type: ImageBlock
-      url: /images/Screen Shot 2022-12-26 at 2.37.37 PM.png
-      altText: Hero image
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 addTitleSuffix: true
 metaTags: []
 ---
