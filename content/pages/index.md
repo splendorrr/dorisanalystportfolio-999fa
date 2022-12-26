@@ -155,7 +155,7 @@ sections:
         icon: arrowRight
     backgroundImage:
       type: BackgroundImage
-      url: /images/hero-3.webp
+      url: /images/Screen Shot 2022-12-26 at 2.37.37 PM.png
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
