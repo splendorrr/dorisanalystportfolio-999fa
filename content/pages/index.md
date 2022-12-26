@@ -30,6 +30,14 @@ sections:
         icon: arrowRight
         style: primary
         url: /
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: '/https://www.linkedin.com/in/doris-a-55b326249/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/IMG_6988_Facetune_31-05-2021-19-22-55.jpg
