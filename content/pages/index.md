@@ -31,7 +31,6 @@ sections:
         style: primary
         url: /
       - type: Link
-        label: Learn more
         altText: ''
         url: 'https://www.linkedin.com/in/doris-a-55b326249//'
         showIcon: false
