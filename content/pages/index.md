@@ -98,7 +98,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Join
+        label: Jo
         showIcon: true
         icon: arrowRight
         style: primary
