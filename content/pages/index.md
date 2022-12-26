@@ -93,7 +93,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    subtitle: Fresh. Better. Faster.
+    subtitle: Learn. Better. Faster.
     text: ''
     actions:
       - type: Button
