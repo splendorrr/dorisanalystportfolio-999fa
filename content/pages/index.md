@@ -43,7 +43,7 @@ sections:
         url: '/https://www.linkedin.com/in/doris-a-55b326249/'
         showIcon: false
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         elementId: ''
     media:
       type: ImageBlock
