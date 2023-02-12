@@ -12,7 +12,7 @@ featuredImage:
   altText: Post Image
 media:
   type: ImageBlock
-  url: /images/bg.webp
+  url: /images/Screen Shot 2022-12-10 at 11.27.35 PM.png
   altText: Post Image
 bottomSections:
   - elementId: ''
