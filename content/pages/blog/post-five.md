@@ -8,7 +8,7 @@ excerpt: >-
   States.
 featuredImage:
   type: ImageBlock
-  url: /images/hero.webp
+  url: /images/Screen Shot 2023-02-11 at 6.25.24 PM.png
   altText: Post Image
 media:
   type: ImageBlock
