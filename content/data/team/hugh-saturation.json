@@ -1,6 +1,5 @@
 {
     "type": "Person",
-    "lastName": "Saturation",
     "image": {
         "type": "ImageBlock",
         "url": "/images/hugh-saturation.png",
