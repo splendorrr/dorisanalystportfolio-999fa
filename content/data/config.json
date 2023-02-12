@@ -81,13 +81,7 @@
                 "url": "https://www.linkedin.com/in/doris-a-55b326249/"
             }
         ],
-        "legalLinks": [
-            {
-                "type": "Link",
-                "label": "Terms & Conditions",
-                "url": "/"
-            }
-        ],
+        "legalLinks": [],
         "styles": {
             "self": {
                 "width": "narrow"
