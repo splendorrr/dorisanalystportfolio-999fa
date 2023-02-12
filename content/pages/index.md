@@ -69,6 +69,35 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: TextSection
+    colors: colors-e
+    elementId: ''
+    variant: variant-a
+    title: The Section Title
+    subtitle: The section subtitle
+    text: |-
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
 addTitleSuffix: true
 metaTags: []
 ---
