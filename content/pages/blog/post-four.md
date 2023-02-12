@@ -5,8 +5,9 @@ date: '2022-11-18'
 colors: colors-c
 author: content/data/team/hilary-ouse.json
 excerpt: >-
-  We’re local, seasonal fisherman, supporting fishing restrictions. We fish what
-  the sea has to offer, nothing more, and no cheating.
+  Econometrics Research Paper that shows the impact of where we live in the
+  United States  on our mental health. I used 4 regions in the US: north,
+  northeast, south and west. 
 featuredImage:
   type: ImageBlock
   url: /images/post-3.jpg
