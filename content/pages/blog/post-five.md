@@ -1,5 +1,5 @@
 ---
-title: Sunset fishnet
+title: 'SQL : Bike Retail Store'
 layout: PostLayout
 date: '2021-12-02'
 author: content/data/team/hugh-saturation.json
