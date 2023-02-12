@@ -81,12 +81,7 @@ sections:
       elementId: sign-up-form
       action: /.netlify/functions/submission_created
       destination: ''
-      fields:
-        - type: EmailFormControl
-          name: email
-          placeholder: Your email
-          isRequired: 'true'
-          width: full
+      fields: []
       submitLabel: Sign Up
     media: null
     styles:
