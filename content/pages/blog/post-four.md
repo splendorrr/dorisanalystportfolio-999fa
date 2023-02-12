@@ -10,7 +10,7 @@ excerpt: >-
   northeast, south and west. 
 featuredImage:
   type: ImageBlock
-  url: /images/post-3.jpg
+  url: /images/bg.jpg
   altText: Post Thumbnail Image
 media:
   type: ImageBlock
