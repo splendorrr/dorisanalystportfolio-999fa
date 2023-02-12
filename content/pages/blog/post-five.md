@@ -58,7 +58,6 @@ bottomSections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-socialImage: /images/desmond-eagle.png
 addTitleSuffix: true
 date: '2022-12-02'
 ---
