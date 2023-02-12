@@ -1,5 +1,6 @@
 {
     "type": "Person",
     "firstName": "Doris",
-    "lastName": "Aleksovska"
+    "lastName": "Aleksovska",
+    "role": "SQL Group Project"
 }
