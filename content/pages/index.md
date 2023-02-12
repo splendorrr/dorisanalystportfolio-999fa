@@ -69,6 +69,43 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: ContactSection
+    colors: colors-c
+    elementId: ''
+    backgroundSize: full
+    title: Get early access
+    text: >-
+      Sign up your team today to be the first to try out our new product to
+      increase your team's productivity.
+    form:
+      type: FormBlock
+      elementId: sign-up-form
+      action: /.netlify/functions/submission_created
+      destination: ''
+      fields:
+        - type: EmailFormControl
+          name: email
+          placeholder: Your email
+          isRequired: 'true'
+          width: full
+      submitLabel: Sign Up
+    media: null
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
 addTitleSuffix: true
 metaTags: []
 ---
