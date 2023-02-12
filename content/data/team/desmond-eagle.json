@@ -2,7 +2,6 @@
     "type": "Person",
     "firstName": "Doris",
     "lastName": "Aleksovska",
-    "role": "Co-founder",
     "image": {
         "type": "ImageBlock",
         "url": "/images/desmond-eagle.png",
