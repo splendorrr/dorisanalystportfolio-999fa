@@ -2,10 +2,5 @@
     "type": "Person",
     "firstName": "Hilary",
     "lastName": "Ouse",
-    "role": "Doris Aleksovska",
-    "image": {
-        "type": "ImageBlock",
-        "url": "/images/hilary-ouse.png",
-        "altText": "Hilary Ouse photo"
-    }
+    "role": "Doris Aleksovska"
 }
