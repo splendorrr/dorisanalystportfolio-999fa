@@ -62,5 +62,11 @@ bottomSections:
         borderStyle: solid
 addTitleSuffix: true
 ---
-Econometrics Research Paper that shows the impact of where we live in the United States  on our mental health. I used 4 regions in the US: north, northeast, south and west.&#x20;
+
+
+
+
+
+
+
 
