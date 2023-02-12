@@ -1,5 +1,5 @@
 ---
-title: 'SQL: Pregnancy Tracker'
+title: 'SQL: Pregnancy Tracking System'
 layout: PostLayout
 date: '2021-11-04'
 author: content/data/team/desmond-eagle.json
