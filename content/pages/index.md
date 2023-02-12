@@ -74,9 +74,8 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Recent Projects
-    text: >-
-      Sign up your team today to be the first to try out our new product to
-      increase your team's productivity.
+    text: |
+      See projects!
     form:
       type: FormBlock
       elementId: sign-up-form
