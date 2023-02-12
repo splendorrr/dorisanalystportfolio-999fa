@@ -3,8 +3,9 @@ title: 'STATA: The Effect of Region on Mental Health'
 layout: PostLayout
 author: content/data/team/hugh-saturation.json
 excerpt: >-
-  Knowing how to feed yourself in the wild is one of the greatest skills you
-  could ever have.
+  Econometrics Research Paper on Mental Health, that shows statistically
+  significant impact on mental health based on where we live in the United
+  States.
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
