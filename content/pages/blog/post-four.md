@@ -14,7 +14,7 @@ featuredImage:
   altText: Post Thumbnail Image
 media:
   type: ImageBlock
-  url: /images/post-3.jpg
+  url: /images/bg.webp
   altText: Post Image
 bottomSections:
   - elementId: ''
