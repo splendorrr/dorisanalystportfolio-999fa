@@ -24,12 +24,6 @@ sections:
       people & great projects!
 
     actions:
-      - type: Button
-        label: View My Projects
-        showIcon: true
-        icon: arrowRight
-        style: primary
-        url: /
       - type: Link
         altText: ''
         url: 'https://www.linkedin.com/in/doris-a-55b326249//'
@@ -37,6 +31,12 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
+      - type: Button
+        label: View My Projects
+        showIcon: true
+        icon: arrowRight
+        style: primary
+        url: /
       - type: Link
         altText: ''
         showIcon: true
