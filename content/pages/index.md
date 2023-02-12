@@ -73,7 +73,7 @@ sections:
     colors: colors-c
     elementId: ''
     backgroundSize: full
-    title: Get early access
+    title: Recent Projects
     text: >-
       Sign up your team today to be the first to try out our new product to
       increase your team's productivity.
