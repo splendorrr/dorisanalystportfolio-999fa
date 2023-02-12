@@ -17,12 +17,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-      - type: Button
-        label: View My Projects
-        showIcon: true
-        icon: arrowRight
-        style: primary
-        url: /
       - type: Link
         altText: ''
         showIcon: true
