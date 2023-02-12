@@ -68,7 +68,7 @@
             },
             {
                 "type": "Link",
-                "label": "Contact Me",
+                "label": "Say hello",
                 "url": "mailto:info@lorem.mail",
                 "altText": ""
             }
