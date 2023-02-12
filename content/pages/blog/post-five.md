@@ -11,7 +11,7 @@ featuredImage:
   altText: Post Image
 media:
   type: ImageBlock
-  url: /images/hero.webp
+  url: /images/Screen Shot 2023-02-11 at 6.12.00 PM.png
   altText: Post Image
 bottomSections:
   - elementId: ''
