@@ -69,37 +69,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: ContactSection
-    colors: colors-c
-    elementId: ''
-    backgroundSize: full
-    title: Recent Projects
-    text: |
-      See projects!
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      action: /.netlify/functions/submission_created
-      destination: ''
-      fields: []
-      submitLabel: Sign Up
-    media: null
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
 addTitleSuffix: true
 metaTags: []
 ---
