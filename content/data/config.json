@@ -17,12 +17,6 @@
             },
             {
                 "type": "Link",
-                "label": "About Me",
-                "url": "/about",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Projects",
                 "url": "/blog",
                 "altText": ""
