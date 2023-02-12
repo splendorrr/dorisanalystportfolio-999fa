@@ -1,7 +1,6 @@
 {
     "type": "Person",
     "lastName": "Saturation",
-    "role": "Senior fisherman + delivery guy",
     "image": {
         "type": "ImageBlock",
         "url": "/images/hugh-saturation.png",
