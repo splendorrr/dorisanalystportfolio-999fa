@@ -74,6 +74,15 @@
         "socialLinks": [
             {
                 "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.linkedin.com/in/doris-a-55b326249/",
+                "icon": "instagram",
+                "style": "link",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "altText": "",
                 "icon": "linkedin",
                 "style": "link",
