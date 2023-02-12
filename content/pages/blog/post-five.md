@@ -67,18 +67,16 @@ date: '2022-12-02'
 ---
 For this project, we used data analysis to see the overall performance of a fictional bicycle store and its products. Our goal was to practice our analytical skills and deliver a project that can help any retail store improve its performance. We were able to create tables on sales and customers, from which a report and a data visualization were made that are simple to comprehend. 
 
+<https://docs.google.com/presentation/d/1asYMIqRAAp2lzxLHUYhCSk1ipLFwZ4Lq/edit?usp=sharing&ouid=104430033042466969075&rtpof=true&sd=true>
+
 ![](blob:https://app.stackbit.com/ddd15468-7698-4b48-8b00-5efa1d28c222)
 
 ![](blob:https://app.stackbit.com/4d6f45eb-2222-4120-8a3b-427fd123707d)
 
 ![](blob:https://app.stackbit.com/d4d5827e-69d9-4679-aca6-67b8eabf6bec)
 
-
-
 ![](blob:https://app.stackbit.com/ce0d54ae-160c-43d9-b741-37556e1e4088)
 
->
->
 > ![](blob:https://app.stackbit.com/7da6f711-7997-4bad-ad05-942978bab696)
 >
 > ![](blob:https://app.stackbit.com/f2424bbd-55fa-44e8-842d-db7ef820f424)![](blob:https://app.stackbit.com/1abbaa17-6e0b-4bbd-9883-7883ab651147)
