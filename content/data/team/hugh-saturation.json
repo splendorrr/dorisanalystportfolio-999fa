@@ -2,5 +2,6 @@
     "type": "Person",
     "firstName": "Doris",
     "lastName": "Aleksovska",
-    "role": "SQL Group Project"
+    "role": "SQL Group Project",
+    "bio": "For this project, we used data analysis to see the overall performance of a fictional bicycle store and its products. Our goal was to practice our analytical skills and deliver a project that can help any retail store improve its performance. With SQL and Tableau, we performed different analyst and data visualizations that are simple to comprehend. &#x20;\n"
 }
