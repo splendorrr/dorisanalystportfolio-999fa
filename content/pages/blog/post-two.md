@@ -1,7 +1,7 @@
 ---
 title: 'R: Airbnb'
 layout: PostLayout
-date: '2021-11-03'
+date: '2020-04-01'
 author: content/data/team/desmond-eagle.json
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
