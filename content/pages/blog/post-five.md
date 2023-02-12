@@ -12,6 +12,7 @@ featuredImage:
 media:
   type: ImageBlock
   altText: Post Image
+  url: /images/Screen Shot 2023-02-11 at 6.25.24 PM.png
 bottomSections:
   - elementId: ''
     variant: variant-d
