@@ -1,5 +1,5 @@
 ---
-title: 'SQL : Bike Retail Store'
+title: 'STATA: The Effect of Region on Mental Health'
 layout: PostLayout
 author: content/data/team/hugh-saturation.json
 excerpt: >-
