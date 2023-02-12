@@ -84,6 +84,15 @@
             },
             {
                 "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.instagram.com/doris_leks/",
+                "icon": "instagram",
+                "style": "link",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "altText": "Instagram",
                 "label": "Instagram",
                 "url": "/",
