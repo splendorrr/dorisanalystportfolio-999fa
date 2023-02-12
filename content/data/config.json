@@ -84,11 +84,6 @@
         "legalLinks": [
             {
                 "type": "Link",
-                "label": "Privacy Polic",
-                "url": "/"
-            },
-            {
-                "type": "Link",
                 "label": "Terms & Conditions",
                 "url": "/"
             }
