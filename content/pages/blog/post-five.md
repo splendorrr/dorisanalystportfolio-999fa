@@ -61,9 +61,9 @@ bottomSections:
 addTitleSuffix: true
 date: '2022-12-02'
 ---
-For this project, we used SQL to see the overall performance of a fictional bicycle store and its products. After data cleaning and mining, we were able to to see patterns which helped us create tables and visualizations representing areas of production, consumers, and sales. 
+For this project, we used SQL to see the overall performance of a fictional bicycle store and its products. After data cleaning and mining, we were able to to see patterns which helped us create tables and visualizations representing areas of production, consumers, and sales.
 
-Working on this project, strengthened my skills such as: writing SQL scripts, connecting tables and creating relationships, and visualizations. The link to this project can be found below. 
+Working on this project strengthened my skills in: writing SQL scripts, connecting tables and creating relationships, and visualizations. The link to this project can be found below.
 
 <https://docs.google.com/presentation/d/1asYMIqRAAp2lzxLHUYhCSk1ipLFwZ4Lq/edit?usp=sharing&ouid=104430033042466969075&rtpof=true&sd=true>
 
