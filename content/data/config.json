@@ -26,7 +26,7 @@
             {
                 "type": "Button",
                 "label": "Contact me",
-                "url": "mailto:info@lorem.mail",
+                "url": "mailto:doraleksovska@gmail.com",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
