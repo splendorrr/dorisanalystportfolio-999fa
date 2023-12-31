@@ -218,7 +218,6 @@ bottomSections:
       actions:
         justifyContent: flex-start
     title: Read next
-    subtitle: More Projects
     recentCount: 5
 metaDescription: null
 socialImage: null
