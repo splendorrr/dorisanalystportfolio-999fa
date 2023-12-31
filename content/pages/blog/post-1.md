@@ -195,11 +195,7 @@ bottomSections:
     showExcerpt: true
     showReadMoreLink: true
     variant: variant-c
-    actions:
-      - type: Link
-        url: post-1/blog
-        showIcon: true
-        icon: arrowRight
+    actions: []
     styles:
       self:
         height: auto
