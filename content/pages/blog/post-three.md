@@ -60,4 +60,8 @@ bottomSections:
         borderStyle: solid
 addTitleSuffix: true
 ---
+SQL project that created the most efficient tracking system for pregnancy, using hospital data.
+
+ The project is available at this link:
+
 <https://drive.google.com/file/d/1xMq1kZ4bXHjY9tTJUJA5aoZjxHqOyPmp/view?usp=sharing>
