@@ -3,7 +3,7 @@ title: 'SQL: Pregnancy Tracking System'
 layout: PostLayout
 date: '2021-11-04'
 author: content/data/team/desmond-eagle.json
-excerpt: SQL project focused on
+excerpt: SQL project focused on creati
 featuredImage:
   type: ImageBlock
   url: /images/Screen Shot 2022-12-10 at 11.27.35 PM.png
