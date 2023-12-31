@@ -27,7 +27,7 @@
                 "type": "Button",
                 "label": "Contact me",
                 "url": "mailto:doraleksovska@gmail.com",
-                "altText": "Contact us",
+                "altText": "Contact me",
                 "style": "secondary",
                 "showIcon": true,
                 "icon": "arrowRight",
