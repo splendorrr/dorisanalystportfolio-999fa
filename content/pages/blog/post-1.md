@@ -219,7 +219,7 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Seasonal adventure
+    title: Read next
     subtitle: ''
     recentCount: 5
 metaDescription: null
