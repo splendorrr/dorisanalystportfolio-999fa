@@ -256,7 +256,6 @@ bottomSections:
     subtitle: ''
     posts:
       - content/pages/blog/post-five.md
-      - content/pages/blog/post-four.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-three.md
 metaDescription: null
