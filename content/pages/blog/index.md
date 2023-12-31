@@ -3,7 +3,7 @@ layout: PostFeedLayout
 title: Recent Projects
 numOfPostsPerPage: 10
 postFeed:
-  showDate: true
+  showDate: false
   showAuthor: false
   showExcerpt: false
   showReadMoreLink: true
