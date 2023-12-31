@@ -198,7 +198,7 @@ bottomSections:
     variant: variant-c
     actions:
       - type: Link
-        url: 3/blog
+        url: post-1/blog
         showIcon: true
         icon: arrowRight
     styles:
