@@ -3,9 +3,6 @@ title: 'SQL: Pregnancy Tracking System'
 layout: PostLayout
 date: '2021-11-04'
 author: content/data/team/desmond-eagle.json
-excerpt: >-
-  SQL project that created the most efficient tracking system for pregnancy,
-  using hospital data.
 featuredImage:
   type: ImageBlock
   url: /images/Screen Shot 2022-12-10 at 11.27.35 PM.png
