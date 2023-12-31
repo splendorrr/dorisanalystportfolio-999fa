@@ -198,7 +198,6 @@ bottomSections:
     variant: variant-c
     actions:
       - type: Link
-        altText: See all adventures
         url: /blog
         showIcon: true
         icon: arrowRight
