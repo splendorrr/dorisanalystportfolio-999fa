@@ -68,7 +68,6 @@ bottomSections:
     showExcerpt: true
     showReadMoreLink: true
     readMoreLinkLabel: View more
-    variant: variant-a
     actions:
       - type: Link
         label: See all adventures
