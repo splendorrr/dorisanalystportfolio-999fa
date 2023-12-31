@@ -97,8 +97,8 @@ bottomSections:
     posts:
       - content/pages/blog/post-five.md
       - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
+      - content/pages/blog/post-three.md
 addTitleSuffix: true
 ---
 I worked on this project post Covid-19 pandemic, and was inspired to work on this topic, because of what was happening around us. I wanted to learn more about mental health, causes and factors. 
