@@ -213,7 +213,7 @@ bottomSections:
       actions:
         justifyContent: flex-start
     title: Read next
-    recentCount: 3
+    recentCount: 5
 metaDescription: null
 socialImage: null
 author: content/data/team/hugh-saturation.json
