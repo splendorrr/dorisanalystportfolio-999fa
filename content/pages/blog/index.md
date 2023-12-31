@@ -1,7 +1,7 @@
 ---
 layout: PostFeedLayout
 title: Recent Projects
-numOfPostsPerPage: 10
+numOfPostsPerPage: 0
 postFeed:
   showDate: false
   showAuthor: false
