@@ -174,35 +174,6 @@ media:
   altText: Post Image
   url: /images/Screen Shot 2023-02-11 at 6.25.24 PM.png
 bottomSections:
-  - elementId: ''
-    colors: colors-d
-    title: Read next
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    recentCount: 3
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-56
-          - pr-4
-          - pl-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
-    type: RecentPostsSection
   - type: DividerSection
     colors: colors-d
     styles:
