@@ -165,9 +165,6 @@ metaTags: []
 title: 'SQL: Bike Retail Store'
 colors: colors-d
 date: '2022-12-02'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
   url: /images/Screen Shot 2023-02-11 at 6.25.24 PM.png
