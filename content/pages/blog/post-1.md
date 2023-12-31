@@ -180,7 +180,7 @@ bottomSections:
     showDate: true
     showAuthor: false
     showExcerpt: true
-    recentCount: 4
+    recentCount: 3
     styles:
       self:
         height: auto
