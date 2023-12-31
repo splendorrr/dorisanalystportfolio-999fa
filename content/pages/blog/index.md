@@ -5,7 +5,7 @@ numOfPostsPerPage: 0
 postFeed:
   showDate: false
   showAuthor: false
-  showExcerpt: false
+  showExcerpt: true
   showReadMoreLink: true
   readMoreLinkLabel: View more
   variant: variant-c
