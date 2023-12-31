@@ -2,10 +2,6 @@
 title: 'SQL: Bike Retail Store'
 layout: PostLayout
 author: content/data/team/hugh-saturation.json
-excerpt: >-
-  Econometrics Research Paper on Mental Health, that shows statistically
-  significant impact on mental health based on where we live in the United
-  States.
 featuredImage:
   type: ImageBlock
   url: /images/Screen Shot 2023-02-11 at 6.25.24 PM.png
