@@ -67,7 +67,7 @@ bottomSections:
     showAuthor: false
     showExcerpt: true
     showReadMoreLink: true
-    readMoreLinkLabel: Join adventure
+    readMoreLinkLabel: View more
     variant: variant-a
     actions:
       - type: Link
