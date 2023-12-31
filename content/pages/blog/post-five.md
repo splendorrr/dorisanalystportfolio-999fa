@@ -61,19 +61,11 @@ bottomSections:
 addTitleSuffix: true
 date: '2022-12-02'
 ---
-For this project, we used data analysis to see the overall performance of a fictional bicycle store and its products. Our goal was to practice our analytical skills and deliver a project that can help any retail store improve its performance. We were able to create tables on sales and customers, from which a report and a data visualization were made that are simple to comprehend. 
+For this project, we used SQL to see the overall performance of a fictional bicycle store and its products. After data cleaning and mining, we were able to to see patterns which helped us create tables and visualizations representing areas of production, consumers, and sales. 
+
+Working on this project, strengthened my skills such as: writing SQL scripts, connecting tables and creating relationships, and visualizations. The link to this project can be found below. 
 
 <https://docs.google.com/presentation/d/1asYMIqRAAp2lzxLHUYhCSk1ipLFwZ4Lq/edit?usp=sharing&ouid=104430033042466969075&rtpof=true&sd=true>
 
-
-
-
-
-
-
-
-
->
->
 >
 
