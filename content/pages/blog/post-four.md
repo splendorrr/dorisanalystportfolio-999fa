@@ -60,6 +60,45 @@ bottomSections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: FeaturedPostsSection
+    colors: colors-d
+    elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showReadMoreLink: true
+    readMoreLinkLabel: Join adventure
+    variant: variant-a
+    actions:
+      - type: Link
+        label: See all adventures
+        altText: See all adventures
+        url: /blog
+        showIcon: true
+        icon: arrowRight
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    title: Seasonal adventure
+    subtitle: ''
+    posts:
+      - content/pages/blog/post-five.md
+      - content/pages/blog/post-four.md
+      - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
 addTitleSuffix: true
 ---
 I worked on this project post Covid-19 pandemic, and was inspired to work on this topic, because of what was happening around us. I wanted to learn more about mental health, causes and factors. 
