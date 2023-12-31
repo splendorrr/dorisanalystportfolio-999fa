@@ -7,11 +7,11 @@ sections:
     elementId: ''
     backgroundSize: full
     text: >
-      Doris Aleks! 
+      Doris Aleks,
 
 
       Evolving business professional and data analyst. Inspired by great people,
-      companies & projects!
+      companies & projects.
     actions:
       - type: Link
         altText: ''
