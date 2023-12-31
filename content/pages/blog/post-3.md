@@ -255,8 +255,8 @@ bottomSections:
     title: Seasonal adventure
     subtitle: ''
     posts:
-      - content/pages/blog/post-five.md
       - content/pages/blog/post-three.md
+      - content/pages/blog/post-five.md
 metaDescription: null
 socialImage: null
 author: content/data/team/hilary-ouse.json
