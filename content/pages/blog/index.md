@@ -6,7 +6,7 @@ postFeed:
   showDate: false
   showAuthor: false
   showExcerpt: false
-  showReadMoreLink: false
+  showReadMoreLink: true
   readMoreLinkLabel: View more
   variant: variant-c
   colors: colors-d
