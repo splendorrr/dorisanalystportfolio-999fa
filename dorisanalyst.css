@@ -1,0 +1,273 @@
+
+
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #FFFFFF;
+}
+
+/* Header */
+header {
+    text-align: center;
+    padding: 2em 0;
+    background-color: #628D53;
+    color: #fff;
+}
+/* Navigation Styles */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #666;
+}
+
+
+
+
+/* Image Below Header */
+.header-image {
+    background-color: #FFFFFF;  
+    text-align: center;  
+    padding: 20px 0;  
+}
+
+.header-image img {
+    width: 70%;  
+    max-width: 1200px; 
+    height: 800px;  
+    display: inline-block; 
+    margin: 2px auto;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+header p {
+    font-size: 1.2em;
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 3em 1em;
+    background-color: #e4e7eb;
+}
+
+.hero h2 {
+    font-size: 2em;
+    color: #333;
+}
+
+.hero p {
+    font-size: 1.2em;
+    color: #666;
+}
+
+/* Portfolio Section */
+.portfolio {
+    padding: 2em 1em;
+    text-align: center;
+}
+
+.portfolio h2 {
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+
+
+.project {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 1em;
+    text-align: center;
+}
+
+.project img {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+.project h3 {
+    font-size: 1.5em;
+    margin: 0.5em 0;
+}
+
+.project p {
+    color: #666;
+}
+
+/* About Section */
+.about {
+    padding: 2em 1em;
+    background-color: #e4e7eb;
+    text-align: center;
+}
+
+.about h2 {
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+.about p {
+    font-size: 1.2em;
+}
+
+/* Contact Section */
+.contact {
+    padding: 2em 1em;
+    text-align: center;
+}
+
+.contact h2 {
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+.contact p {
+    font-size: 1.2em;
+}
+
+.contact a {
+    color: #1a73e8; /* Link color */
+    text-decoration: none;
+    font-weight: bold;
+    background-color: #e4e7eb; /* Light background for button effect */
+    padding: 0.2em 0.4em;
+    border-radius: 5px;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.contact a:hover {
+    color: #fff; /* White text on hover */
+    background-color: #ff5722; /* Highlight background on hover */
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+/* General Link Styles */
+a {
+    color: #1a73e8;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #ff5722;
+}
+
+
+@media (max-width: 768px) {
+    .header-content {
+        flex-direction: column; /* Stacks items vertically on smaller screens */
+        text-align: center;
+    }
+
+    .header-image, .header-text {
+        width: 100%; /* Full width for both on mobile */
+    }
+
+    .header-image {
+        margin-right: 0; /* Removes margin for mobile view */
+    }
+}
+
+/* Style the form */
+form {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+form input, form textarea, form button {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+form button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+form button:hover {
+    background-color: #0056b3;
+}
+
+/* Style the table */
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+table th, table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+
+table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    clip: rect(0, 0, 0, 0);
+    overflow: hidden;
+    white-space: nowrap;
+    border: 0;
+}
